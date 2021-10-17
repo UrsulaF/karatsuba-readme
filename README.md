@@ -41,6 +41,7 @@ def karat(x,y):  // definindo a função karat de y e x, variaveis do problema
   print(res)   
   print(" tempo e execução é de %s segundos " % (time.time() - initial_time)) // retorno do tempo de execução do algoritimo de karatsuba.
 
+## Testes:
 
 # Referências 
 https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/karatsuba.html
